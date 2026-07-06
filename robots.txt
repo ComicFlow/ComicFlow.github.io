@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ComicFlow.github.io/sitemap.xml
